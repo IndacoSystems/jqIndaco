@@ -12,7 +12,7 @@
     <language>en-US</language>
   </metadata>
   <files>
-  <file src="core\jquery-1.10.1.js" target="Content\Scripts\Lib\Vendor\jQuery\core\jquery.js" />
+	<file src="core\jquery-1.10.1.js" target="Content\Scripts\Lib\Vendor\jQuery\core\jquery.js" />
 	<file src="core\jquery-migrate-1.2.1.js" target="Content\Scripts\Lib\Vendor\jQuery\core\jquery-migrate.js" />
 	<file src="plugins\jquery.ba-hashchange.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.ba-hashchange.js" />
 	<file src="plugins\jquery.cookie.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.cookie.js" />
@@ -40,7 +40,7 @@
 	<file src="ui\themes\redmond\images\ui-icons_d8e7f3_256x240.png" target="Content\Scripts\Lib\Vendor\jQuery\ui\themes\redmond\images\ui-icons_d8e7f3_256x240.png" />
 	<file src="ui\themes\redmond\images\ui-icons_f9bd01_256x240.png" target="Content\Scripts\Lib\Vendor\jQuery\ui\themes\redmond\images\ui-icons_f9bd01_256x240.png" />
 	<file src="ui\themes\base\jquery.ui.all.css" target="Content\Scripts\Lib\Vendor\jQuery\ui\themes\base\jquery.ui.all.css" />
-	<file src="ui\themes\base\images\animated-overlay.gif" target="Content\Scripts\Lib\Vendor\jQuery\ui\themes\redmond\images\animated-overlay.gif" />
+	<file src="ui\themes\base\images\animated-overlay.gif" target="Content\Scripts\Lib\Vendor\jQuery\ui\themes\base\images\animated-overlay.gif" />
 	<file src="ui\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" target="Content\Scripts\Lib\Vendor\jQuery\ui\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
 	<file src="ui\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" target="Content\Scripts\Lib\Vendor\jQuery\ui\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
 	<file src="ui\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" target="Content\Scripts\Lib\Vendor\jQuery\ui\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
