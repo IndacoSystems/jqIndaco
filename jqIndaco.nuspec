@@ -20,7 +20,7 @@
 	<file src="plugins\jquery.maskedinput-1.3.1.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.maskedinput.js" />
 	<file src="plugins\jquery.validate.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.validate.js" />
 	<file src="plugins\jquery.validate.unobtrusive.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.validate.unobtrusive.js" />
-	<file src="plugins\jquery.blockUI" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.blockUI.js" />
+	<file src="plugins\jquery.blockUI.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.blockUI.js" />
 	<file src="ui\jquery-ui-1.10.3.custom.js" target="Content\Scripts\Lib\Vendor\jQuery\ui\jquery-ui.all.js" />
 	<file src="ui\i18n\jquery.ui.datepicker-ro.js" target="Content\Scripts\Lib\Vendor\jQuery\ui\i18n\jquery.ui.datepicker-ro.js" />
 	<file src="ui\themes\redmond\jquery-ui-1.10.3.custom.css" target="Content\Scripts\Lib\Vendor\jQuery\ui\themes\redmond\jquery-ui.all.css" />
