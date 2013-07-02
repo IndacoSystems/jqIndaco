@@ -106,6 +106,25 @@
 				remove(this, opts);
 			});
 		};
+		
+		$.fn.blockElement = function (opt) {
+		    var defaults = { showMsg: true },
+		        options = $.extend(true,defaults, opt),
+		        message = "";
+		    
+		    if (options.showMsg)
+		        message = $("<div id='loader-" + $(this).attr("id") + "' class='progress_bar' style='display:none'></div>");
+
+		    $(this).block({
+		        overlayCSS: {
+		            background: 'url(themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png") repeat-x scroll 50% 50% #AAAAAA',
+		            opacity: '0.1'
+		        },
+		        css: { border: 'none', background: 'transparent' },
+		        message: message,
+		        blockMsgTop: options.blockMsgTop ? options.blockMsgTop : 0
+		    });
+		};
 
 		$.blockUI.version = 2.60; // 2nd generation blocking at no extra cost!
 
