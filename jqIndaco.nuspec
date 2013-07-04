@@ -12,7 +12,7 @@
     <language>en-US</language>
   </metadata>
   <files>
-	<file src="core\jquery-1.10.1.js" target="Content\Scripts\Lib\Vendor\jQuery\core\jquery.js" />
+	<file src="core\jquery-1.10.2.js" target="Content\Scripts\Lib\Vendor\jQuery\core\jquery.js" />
 	<file src="core\jquery-migrate-1.2.1.js" target="Content\Scripts\Lib\Vendor\jQuery\core\jquery-migrate.js" />
 	<file src="plugins\jquery.ba-hashchange.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.ba-hashchange.js" />
 	<file src="plugins\jquery.cookie.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.cookie.js" />
