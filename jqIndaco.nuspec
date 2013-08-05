@@ -22,6 +22,7 @@
 	<file src="plugins\jquery.validate.unobtrusive.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.validate.unobtrusive.js" />
 	<file src="plugins\jquery.blockUI.js" target="Content\Scripts\Lib\Vendor\jQuery\plugins\jquery.blockUI.js" />
 	<file src="ui\jquery-ui-1.10.3.custom.js" target="Content\Scripts\Lib\Vendor\jQuery\ui\jquery-ui.all.js" />
+	<file src="ui\jquery-ui-1.10.3.core.js" target="Content\Scripts\Lib\Vendor\jQuery\ui\jquery-ui.core.js" />
 	<file src="ui\timepicker\jquery-ui-timepicker-addon.js" target="Content\Scripts\Lib\Vendor\jQuery\ui\timepicker\jquery.ui.timepicker.js" />
 	<file src="ui\timepicker\jquery-ui-timepicker-addon.css" target="Content\Scripts\Lib\Vendor\jQuery\ui\timepicker\jquery.ui.timepicker.css" />
 	<file src="ui\timepicker\jquery-ui-sliderAccess.js" target="Content\Scripts\Lib\Vendor\jQuery\ui\timepicker\jquery.ui.sliderAccess.js" />
